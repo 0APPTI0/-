@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="034a7dc9-2f3d-4da0-bdad-c226952a7f50" name="Default" comment="" />
+    <list default="true" id="034a7dc9-2f3d-4da0-bdad-c226952a7f50" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P范数.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P范数.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数据几何学/P范数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="144">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -45,6 +60,9 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -59,7 +77,6 @@
         <option value="$PROJECT_DIR$/概率论基础/排列组合公式.py" />
         <option value="$PROJECT_DIR$/概率论基础/透镜未被打破的概率.py" />
         <option value="$PROJECT_DIR$/概率论基础/摸球问题.py" />
-        <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/概率论基础/加球后摸球的概率.py" />
         <option value="$PROJECT_DIR$/概率论基础/小麦种子.py" />
         <option value="$PROJECT_DIR$/概率论基础/仓库取元件.py" />
@@ -89,6 +106,7 @@
         <option value="$PROJECT_DIR$/数据几何学/混合矩和混合中心矩.py" />
         <option value="$PROJECT_DIR$/数据几何学/模拟考.py" />
         <option value="$PROJECT_DIR$/数据几何学/P范数.py" />
+        <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
   </component>
@@ -114,18 +132,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="pythonExp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonExp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonExp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonExp" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonExp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonExp" type="462c0819:PsiDirectoryNode" />
-              <item name="数据几何学" type="462c0819:PsiDirectoryNode" />
+              <item name="《数据科学基础》题库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="《数据科学基础》题库" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,7 +185,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="偏度和峰度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P范数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,26 +198,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据几何学/偏度和峰度.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="混合矩和混合中心矩" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonExp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据几何学" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据几何学/混合矩和混合中心矩.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据几何学/P范数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,25 +218,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据几何学/模拟考.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="P范数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonExp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据几何学" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据几何学/P范数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -462,19 +432,51 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="偏度和峰度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonExp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据几何学" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据几何学/偏度和峰度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="混合矩和混合中心矩" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonExp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据几何学" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据几何学/混合矩和混合中心矩.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.二维均匀分布" />
-      <item itemvalue="Python.偏度和峰度" />
-      <item itemvalue="Python.混合矩和混合中心矩" />
-      <item itemvalue="Python.模拟考" />
       <item itemvalue="Python.P范数" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.P范数" />
-        <item itemvalue="Python.模拟考" />
-        <item itemvalue="Python.混合矩和混合中心矩" />
-        <item itemvalue="Python.偏度和峰度" />
         <item itemvalue="Python.二维均匀分布" />
       </list>
     </recent_temporary>
@@ -494,15 +496,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900944" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19652778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19652778" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3298611" />
@@ -604,21 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据汇总/平均数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -689,9 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,9 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,9 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -878,8 +857,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/数据几何学/P范数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
