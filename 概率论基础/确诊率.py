@@ -1,0 +1,8 @@
+data =input().split()
+x = float(data[0])
+a = float(data[1])
+e = float(data[2])
+result1 = a*x/(a*x+e*(1-x))
+result2 = (x-a*x)/(((x-a*x))+(1-e)*(1-x))
+print("%.6f"%result1)
+print("%.6f"%result2)
