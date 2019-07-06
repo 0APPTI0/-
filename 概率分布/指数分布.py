@@ -1,6 +1,7 @@
-
 import math
 
-
 n = int(input())
-print("%.6f"%PI(n,0.001))
+
+F = math.exp(-n*0.001)
+
+print("%.6f"%F)
