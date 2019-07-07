@@ -1,7 +1,11 @@
 import math
+# import numpy as np
 
 
 def pnorm(X, p):
+    
+    # a = np.linalg.norm(X,ord=p)
+    # return  a
     LP = 0
     if p != 'inf' and p != 1:
         for i in X:
